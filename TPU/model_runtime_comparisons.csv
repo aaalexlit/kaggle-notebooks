@@ -1,0 +1,5 @@
+﻿,CPU ,GPU (T4 x2),TPU (v3-8)
+4-convolution CNN,2 minutes,4 seconds (25ms/step),
+4 convolution CNN with data augmentation,,20s 118ms/step,
+pretrained feature extraction layer with data augmentation,,20s 114ms/step,
+Total notebook run time,,~1 hr,~20 mins
